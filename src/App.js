@@ -6,8 +6,6 @@ export default function App() {
     <div>
       <h1>Hello World!</h1>
       <p>Start editing to see some magic happen :)</p>
-
-      <a href="charts.html">Charts </a>
       </div>
   );
 }
